@@ -1,0 +1,9 @@
+button{
+    margin-bottom: 1em;
+}
+.container{
+    border: 2px solid red;
+    padding: 1em;
+    width: max-content;
+    margin-bottom: 2em;
+}
